@@ -1,0 +1,5 @@
+The internet is the network that allows the web to exist. The web is something on the internet that lets web pages travel throughout the internet. 
+The internet works through a system of servers that are connected to some sort of power source such as a fiber optic cables. This allows the servers to communicate with eachother. 
+A directory is how files are stored on a computer. 
+A VCS is important because it allows users to easily track every change that is made.
+Something I found interesting was how the internet actually works. 
