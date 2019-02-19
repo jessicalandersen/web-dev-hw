@@ -1,0 +1,3 @@
+1. I chose to look at MTV in 2007. The picture that showed up was a promotion for that years Video Music Awards. The artists being featured were Kelly Clarkson, Madonna, and Christina Aguilera. This has changed a lot since then, since most of those artists are not the top artists of today. MTV has also shifted their focus to reality TV instead of music. However, something that has remained the same is the annual VMAs.
+2. The GIT module was not too difficult in practice but I think I messed up on creating a file on my computer. I am still a little confused on what the difference between the GITHUB software and the Atom software.
+3. ![my screenshot](.images/capture04.png)
