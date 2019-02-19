@@ -1,0 +1,4 @@
+Data travels through the internet in packets to get from one service to another.
+IP addresses are unique addresses given to computers in order to identify them. a DNS is a internet service.
+Cookies are files that track a computer's data. This can include data regarding websites visited.
+The three main parts of a URL are the domain name, path, and protocol. 
