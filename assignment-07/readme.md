@@ -1,0 +1,3 @@
+Divs provide structure for the webpage but they do not provide any content to the page. The class element is used to group elements together and provide detailed context about the element. The id element is the ultimate identifying element for a webpage.
+The alt element is used to provide value to users who are visually impaired. It provides context about the photo on the page and also helps when the photo needs context or isn't loading properly.
+For this assignment I mainly used the website to guide me through this assignment. I like to jump in with what I already know how to do and go back to the reading when I reach the new material. 
