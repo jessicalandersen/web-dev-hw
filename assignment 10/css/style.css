@@ -1,0 +1,38 @@
+/*
+Include a fallback for each font.*/'
+h1 {
+  text-align: center;
+  padding: 10px;
+  border: 5px solid #000000;
+}
+.main-container {
+  background: gold;
+  border: 3px solid #000000;
+}
+.secondary-container {
+  border: 3px solid #000000;
+}
+body {
+  text-align: center;
+  padding: 10px;
+  border: 5px solid #000000;
+}
+.main-container {
+  background: gold;
+  border: 3px solid #000000;
+}
+.secondary-container {
+  border: 3px solid #000000;
+}
+p {
+  text-align: center;
+  padding: 10px;
+  border: 5px solid #000000;
+}
+.main-container {
+  background: gold;
+  border: 3px solid #000000;
+}
+.secondary-container {
+  border: 3px solid #000000;
+}
